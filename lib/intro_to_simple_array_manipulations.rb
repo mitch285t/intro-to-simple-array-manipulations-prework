@@ -13,6 +13,13 @@ def using_pop(great_hits_of_the_nineties)
    deleted_string =  great_hits_of_the_nineties.pop
    return deleted_string
 end 
+
+
+
+
+
+
+
 def pop_with_args(array)
   chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane, aka The Mountain"]
   chars_in_game_of_thrones.pop(2)
