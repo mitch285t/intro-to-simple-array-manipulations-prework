@@ -35,7 +35,7 @@ end
 ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
 
 my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
-
+omre_favs = ["mario kart", "flatiron school"]
 
 def shift_with_args(ice_cream_brands)
   brands_removed = ice_cream_brands.shift(2)
