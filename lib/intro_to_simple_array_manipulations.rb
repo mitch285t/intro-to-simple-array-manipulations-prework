@@ -48,8 +48,11 @@ def using_concat(my_favorite_things, more_favs)
   
 end
 list_of_esoteric_programming_languages = ["Ante", "ArnoldC", "Befunge", "Binary lambda calculus", "Chef", "GolfScript", "Ook!"]
+another_esoteric_language = "Malbolge"
 
-def using_insert(list_of_esoteric_programming_languages, )
+
+def using_insert(list_of_esoteric_programming_languages,another_esoteric_language )
+  
   
 
 
