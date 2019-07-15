@@ -52,7 +52,7 @@ another_esoteric_language = "Malbolge"
 
 
 def using_insert(list_of_esoteric_programming_languages,another_esoteric_language )
-  list_of_esoteric_programming_languages.insert(6, another_esoteric_language)
+  list_of_esoteric_programming_languages.insert(4, another_esoteric_language)
 end
   
 
