@@ -74,7 +74,7 @@ def using_delete(instructors, string)
 end
 famous_robots = ["the dog from doctor who", "R2D2", "Ultron"]
 def using_delete_at(famous_robots, integer)
-  famous_robots.delete(2)
+  famous_robots.delete(-1)
 end
 
 
