@@ -41,7 +41,12 @@ def shift_with_args(ice_cream_brands)
 end
  
 
-
+my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
+more_favs = ["mario kart", "flatiron school"]
+def using_concat(my_favorite_things, more_favs)
+  
+  
+end
 
 
 
